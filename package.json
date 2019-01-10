@@ -51,7 +51,7 @@
     "qunit": "^2.8.0",
     "rimraf": "^2.6.2",
     "rollup": "^1.0.0",
-    "rollup-plugin-babel": "^4.2.0",
+    "rollup-plugin-babel": "^4.3.0",
     "rollup-plugin-json": "^3.0.0",
     "sinon": "^7.2.2",
     "tslint": "^5.12.0",
